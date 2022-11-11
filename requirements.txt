@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+jinja2
+python-multipart
+anyio==3.5.0
+asgiref==3.5.0
+click==8.0.4
+h11==0.13.0
+idna==3.3
+sniffio==1.2.0
